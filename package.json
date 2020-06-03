@@ -1,0 +1,23 @@
+{
+  "name": "express_rest_api",
+  "version": "1.0.0",
+  "description": "for explore rest apis using express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nawabmeeravali/express_rest_API.git"
+  },
+  "author": "meeravali nawab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nawabmeeravali/express_rest_API/issues"
+  },
+  "homepage": "https://github.com/Nawabmeeravali/express_rest_API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
